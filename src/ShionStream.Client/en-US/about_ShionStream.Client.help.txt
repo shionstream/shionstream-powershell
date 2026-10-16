@@ -1,0 +1,21 @@
+PSTOPIC
+    about_ShionStream.Client
+
+SHORT DESCRIPTION
+    ShionStream.Client - the PowerShell module for the ShionStream API
+
+LONG DESCRIPTION
+    Modular anime streaming and metadata API built with Hono on Cloudflare Workers.
+
+    This PowerShell module is automatically generated for ShionStream API using OpenAPI specification:
+
+    - API version: 1.0.0
+    - SDK version: 0.1.2
+    - Generator version: 7.26.0
+    - Build package: org.openapitools.codegen.languages.PowerShellClientCodegen
+    For more information, please visit [https://gox.my.id](https://gox.my.id)
+
+    Frameworks supported:
+
+    * PowerShell 6.2 or later
+    * .NET 4.0 or later
